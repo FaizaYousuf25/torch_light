@@ -11,3 +11,6 @@ The app offers a straightforward interface with a single button to toggle the to
 providing users with instant access to a handy flashlight tool.
 
 !![WhatsApp Image 2024-04-24 at 2 26 31 PM](https://github.com/FaizaYousuf25/torch_light/assets/165935103/3c57b36b-b771-46f9-84ef-d03da3ece27c)
+
+![WhatsApp Image 2024-04-24 at 2 26 30 PM](https://github.com/FaizaYousuf25/torch_light/assets/165935103/58363b62-e24a-4cfa-b5e4-5dedd654e6d3)
+
